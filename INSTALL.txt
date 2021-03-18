@@ -5,4 +5,4 @@ Kommando aus:
 
 
 Deinstallieren:
-
+> sudo apt-get remove --auto-remove haskell-platform
