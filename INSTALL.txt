@@ -3,6 +3,7 @@ Kommando aus:
 
 > aptitude install haskell-platform
 
-
 Deinstallieren:
 > sudo apt-get remove --auto-remove haskell-platform
+=======
+
